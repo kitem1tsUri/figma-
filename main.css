@@ -90,3 +90,112 @@ button{
 
 
 /* huslengiin css */
+/* munkhtulgiin css */
+.text1{
+    display:flex;
+    justify-content:center;
+    font-size:4vw;
+    padding-top:30px;
+    color:white;
+    font-weight:bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .four{
+    width:100vw;
+    height:100vh;
+    background-color:rgb(215,70,128);
+    }
+    .text2{
+    display:flex;
+    justify-content:center;
+    font-size:1vw;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .line1{
+    display:flex;
+    justify-content:center;
+    width:5vw;
+    height:0.4vh;
+    background-color:black;
+    opacity:0.3;
+    margin-left:47vw;
+    margin-top:30px;
+    margin-bottom:50px;
+    
+    }
+    .img1{
+       max-width: 10%;;
+       max-height:10%;
+       border-radius:50% ;
+       position:relative; 
+       left:-150px;
+       top:85px;
+    }
+    .img2{
+        max-width: 10%;;
+        max-height:10%;
+        border-radius:50% ;
+        position:relative; 
+        left:-150px;
+        top:85px;
+     }
+     .img3{
+        max-width: 10%;;
+        max-height:10%;
+        border-radius:50% ;
+        position:relative; 
+        top:-33px;
+        right:20px;
+     }
+     .img4{
+        max-width: 10%;;
+        max-height:10%;
+        border-radius:50% ;
+        position:relative; 
+        top:-40px;
+        right:20px;
+     }
+    .lorem{
+    margin-top:-30px;
+    font-weight:700;
+    font-size:smaller;
+    display:flex;
+    flex-direction:column;
+    }
+    .lorem1{
+     color:white;
+     font-style:italic ;
+      display:flex;
+      flex-direction:column;
+      align-content:start ;
+      justify-content:flex-start ;
+      padding-left:165px;
+      padding-bottom:60px;
+    }
+    .lorem2{
+     color:white;
+     font-style:italic;
+     position:relative ;
+     display:flex;
+     align-content:end;  
+     justify-content:flex-end;
+     padding-right:0px; 
+     padding-bottom:125px;
+    top:-425px;
+    }
+    .nernuud1{
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight:bold;
+      font-size:larger;  
+      margin-top:15px;
+    }
+    .nernuud2{
+     font-family:Arial, Helvetica, sans-serif;
+     font-weight:bold;
+    font-size:larger;
+    position:relative ;
+    top:60px;
+    right:460px;
+    }
+/* munkhtulgiin css */
