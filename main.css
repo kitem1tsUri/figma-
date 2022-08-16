@@ -181,8 +181,9 @@ button{
      align-content:end;  
      justify-content:flex-end;
      padding-right:0px; 
-     padding-bottom:125px;
-    top:-425px;
+     padding-bottom:145px;
+    top:-470px;
+    left:100px;
     }
     .nernuud1{
       font-family:Arial, Helvetica, sans-serif;
@@ -197,5 +198,20 @@ button{
     position:relative ;
     top:60px;
     right:460px;
+    }
+    .bagiinhun{
+        font-style:normal;
+        font-family:Arial, Helvetica, sans-serif ;
+        font-size:Large;
+        color:rgb(245,245,220); 
+    }
+    .bagiinhun2{
+    font-style:normal;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size:Large;
+    color:rgb(245,245,220);
+    position:relative;
+    top:80px;
+    right:534px;   
     }
 /* munkhtulgiin css */
