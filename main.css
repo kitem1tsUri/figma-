@@ -153,7 +153,7 @@ button {
 }
 .four {
   width: 100vw;
-  height: 91wvh;
+  height: 91vh;
   background-color: rgb(215, 70, 128);
   
 }
@@ -264,7 +264,7 @@ flex-direction: row;
  width:100vw;
  background-color:rgb(52	75	142); 
  position:relative ;
- top:10vh;
+ top:0vh;
 }
 .bottomtext{
   width:100%;
