@@ -1,0 +1,43 @@
+body{ 
+    margin: 0;
+}
+.header { 
+    width: 100vw;
+    height: 982px;
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.khuslen{ 
+    width: 479px;
+    height: 530px;
+    box-shadow: 34px 52px 12px rgba(243, 122, 122, 1);
+}
+.huslen{ 
+    font-size: 56.62px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 500px;
+}
+#p { 
+    color: red;
+}
+.down { 
+    font-size: 18.87px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cube {
+    width: 191px;
+    height: 191px;
+ }
+.skills {
+    width: 100vw;
+    height: 1081px;
+}
+.ygaan{ 
+    width: 488.02px;
+    height: 351.75px;
+    background-color: rgba(252, 232, 230, 1); 
+    border-radius: 15%;
+}
