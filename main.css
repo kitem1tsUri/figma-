@@ -1,217 +1,202 @@
 /* amarchinguunii css */
-*{
-    margin:0;
-    padding:0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.header{
-    width: 100%;
-    height: 596px;
-    background-color: #59007B;
+.header {
+  width: 100%;
+  height: 596px;
+  background-color: #59007b;
 }
-.menu{
-    width: 100%;
-    height: 25%;
-    display: flex;
-    flex-direction: row;
+.menu {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  flex-direction: row;
 }
-.menu .logo{
-    color: white;
-    font-size: 40px;
-    margin-left: 100px;
-    margin-top: 50px;
+.menu .logo {
+  color: white;
+  font-size: 40px;
+  margin-left: 100px;
+  margin-top: 50px;
 }
-.menu .menu-item{
-    width: 100%;
-    height: 25%;
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
-    font-size: 30px;
-    color: white;
-    justify-content: end;
-    margin-top: 50px;
+.menu .menu-item {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  font-size: 30px;
+  color: white;
+  justify-content: end;
+  margin-top: 50px;
 }
-.menu .menu-items:first-child{
-    background-color: white;
-    color: black;
+.menu .menu-items:first-child {
+  background-color: white;
+  color: black;
 }
-.word{
-    width: 100%;
-    height: 75%;
-    color:white;
-    font-size: 40px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 100px;
+.word {
+  width: 100%;
+  height: 75%;
+  color: white;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
 }
-button{
-    width: 200px;
-    height: 50px;
-    background-color: orange;
-    color: white;
-    cursor: pointer;
+button {
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  color: white;
+  cursor: pointer;
 }
 /* amarchinguunii css */
 /* huslengiin css */
-.tsenher{ 
-    background-color: rgba(231, 241, 248, 1)    ;
-    width: 100vw;
-    height: 1673px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+.tsenher {
+  background-color: rgba(231, 241, 248, 1);
+  width: 100vw;
+  height: 1673px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.amazing { 
-    margin-top: 10vh;
-     font-size: 40.63px; 
-     color: rgba(60, 71, 97, 1);
-     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    margin-bottom: 3vh ;
-    
+.amazing {
+  margin-top: 10vh;
+  font-size: 40.63px;
+  color: rgba(60, 71, 97, 1);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 3vh;
 }
-.line { 
-    width: 87px;
-    height: 4.13px;
-    background-color: rgba(189, 209, 223, 1);
+.line {
+  width: 87px;
+  height: 4.13px;
+  background-color: rgba(189, 209, 223, 1);
 }
-.mest { 
-    margin-top: 3vh;    
-    color: rgba(60, 71, 97, 1);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-
+.mest {
+  margin-top: 3vh;
+  color: rgba(60, 71, 97, 1);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
-
-
-
-
 
 /* huslengiin css */
 /* munkhtulgiin css */
-.text1{
-    display:flex;
-    justify-content:center;
-    font-size:4vw;
-    padding-top:30px;
-    color:white;
-    font-weight:bolder;
-    font-family:Arial, Helvetica, sans-serif;
-    }
-    .four{
-    width:100vw;
-    height:100vh;
-    background-color:rgb(215,70,128);
-    }
-    .text2{
-    display:flex;
-    justify-content:center;
-    font-size:1vw;
-    color:white;
-    font-family:Arial, Helvetica, sans-serif;
-    }
-    .line1{
-    display:flex;
-    justify-content:center;
-    width:5vw;
-    height:0.4vh;
-    background-color:black;
-    opacity:0.3;
-    margin-left:47vw;
-    margin-top:30px;
-    margin-bottom:50px;
-    
-    }
-    .img1{
-       max-width: 10%;;
-       max-height:10%;
-       border-radius:50% ;
-       position:relative; 
-       left:-150px;
-       top:85px;
-    }
-    .img2{
-        max-width: 10%;;
-        max-height:10%;
-        border-radius:50% ;
-        position:relative; 
-        left:-150px;
-        top:85px;
-     }
-     .img3{
-        max-width: 10%;;
-        max-height:10%;
-        border-radius:50% ;
-        position:relative; 
-        top:-33px;
-        right:20px;
-     }
-     .img4{
-        max-width: 10%;;
-        max-height:10%;
-        border-radius:50% ;
-        position:relative; 
-        top:-40px;
-        right:20px;
-     }
-    .lorem{
-    margin-top:-30px;
-    font-weight:700;
-    font-size:smaller;
-    display:flex;
-    flex-direction:column;
-    }
-    .lorem1{
-     color:white;
-     font-style:italic ;
-      display:flex;
-      flex-direction:column;
-      align-content:start ;
-      justify-content:flex-start ;
-      padding-left:165px;
-      padding-bottom:60px;
-    }
-    .lorem2{
-     color:white;
-     font-style:italic;
-     position:relative ;
-     display:flex;
-     align-content:end;  
-     justify-content:flex-end;
-     padding-right:0px; 
-     padding-bottom:145px;
-    top:-470px;
-    left:100px;
-    }
-    .nernuud1{
-      font-family:Arial, Helvetica, sans-serif;
-      font-weight:bold;
-      font-size:larger;  
-      margin-top:15px;
-    }
-    .nernuud2{
-     font-family:Arial, Helvetica, sans-serif;
-     font-weight:bold;
-    font-size:larger;
-    position:relative ;
-    top:60px;
-    right:460px;
-    }
-    .bagiinhun{
-        font-style:normal;
-        font-family:Arial, Helvetica, sans-serif ;
-        font-size:Large;
-        color:rgb(245,245,220); 
-    }
-    .bagiinhun2{
-    font-style:normal;
-    font-family:Arial, Helvetica, sans-serif ;
-    font-size:Large;
-    color:rgb(245,245,220);
-    position:relative;
-    top:80px;
-    right:534px;   
-    }
+.text1 {
+  display: flex;
+  justify-content: center;
+  font-size: 4vw;
+  padding-top: 30px;
+  color: white;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.four {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(215, 70, 128);
+}
+.text2 {
+  display: flex;
+  justify-content: center;
+  font-size: 1vw;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.line1 {
+  display: flex;
+  justify-content: center;
+  width: 5vw;
+  height: 0.4vh;
+  background-color: black;
+  opacity: 0.3;
+  margin-left: 47vw;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.img1 {
+  max-width: 25%;
+  max-height: 25%;
+  border-radius: 50%;
+  position: relative;
+  top:-60px;
+}
+.img1 img {
+    width: 200px;
+    height: 200px;
+}
+
+
+.lorem {
+  margin-top: -30px;
+  font-weight: 700;
+  font-size: smaller;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+}
+.lorem1 {
+  color: white;
+  font-style: italic;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+  padding-left: 185px;
+  padding-bottom: 60px;
+}
+.lorem2 {
+  color: white;
+  font-style: italic;
+  position: relative;
+  display: flex;
+  align-content: end;
+  justify-content: flex-end;
+  padding-right: 0px;
+  padding-bottom: 145px;
+  top: -470px;
+  left: 100px;
+}
+.nernuud1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  margin-top: 15px;
+}
+.nernuud2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  position: relative;
+  top: 60px;
+  right: 460px;
+}
+.bagiinhun {
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: Large;
+  color: rgb(245, 245, 220);
+}
+.bagiinhun2 {
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: Large;
+  color: rgb(245, 245, 220);
+  position: relative;
+  top: 80px;
+  right: 534px;
+}
 /* munkhtulgiin css */
+.flexdir {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+}
+
+.lorem {
+display: flex;
+flex-direction: row;
+}
