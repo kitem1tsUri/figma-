@@ -19,6 +19,7 @@
     font-size: 40px;
     margin-left: 100px;
     margin-top: 50px;
+    cursor: pointer;
 }
 .menu .menu-item{
     width: 100%;
@@ -31,7 +32,10 @@
     justify-content: end;
     margin-top: 50px;
 }
-.menu .menu-items:first-child{
+.menu .menu-items{
+    cursor: pointer;
+}
+.menu .menu-items:hover{
     background-color: white;
     color: black;
 }
@@ -83,8 +87,67 @@ button{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 
 }
+.humans1 { 
+    height: 491px;
+    width: 760px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
 
+.Амарчингүүн{ 
+    font-size: 24px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.amarchinguunscorner { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.CEO { 
+    color: rgba(48, 186, 231, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
 
+}
+.CEOslorem { 
+    text-align: center;
+    margin-top: 20px;
+}
+.khuslenscorner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.jpg { 
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.Хүслэн {
+    font-size: 24px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Developer { 
+    color: rgba(48, 186, 231, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.Developerslorem { 
+    text-align: center;
+    margin-top: 20px;
+}
+.temuulenscorner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
 
 
 
