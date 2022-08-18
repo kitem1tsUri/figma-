@@ -19,6 +19,15 @@
   font-size: 40px;
   margin-left: 100px;
   margin-top: 50px;
+  cursor: pointer;
+}
+.icon{
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+i{
+  font-size: 40px;
 }
 .menu .menu-item {
   width: 100%;
@@ -31,7 +40,17 @@
   justify-content: end;
   margin-top: 50px;
 }
-.menu .menu-items:first-child {
+.menu .menu-items{
+  width: 200px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu .menu-items:hover {
+  cursor: pointer;
+}
+.menu .menu-items:hover{
   background-color: white;
   color: black;
 }
@@ -141,6 +160,98 @@ button {
     align-items: center;
 }
 /* huslengiin css */
+/* temuka and mike-iin css */
+.bodyyy{
+  width: 100%;;
+  background-color: #ffdd99;
+}
+.title {
+  display: flex;
+  justify-content: center;
+}
+.line {
+  width: 99.91px;
+  height: 3.98px;
+  background-color: #e5c37f;
+}
+.description {
+  display: flex;
+  justify-content: center;
+}
+.container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.buttons{
+  background-color: #ebcb8d;
+  border-radius: 5px;
+  width: 86.81px;
+  height: 37.81px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.buttons:hover{
+  background-color: white;
+}
+.zurg{
+  width: 50vh;
+  height: 15vw;
+}
+.etsg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 50px;
+}
+.contain{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.eh{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-top: 50px;
+}
+.contain2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bt {
+  background-color: #17C2A4;
+  width: 302.79px;
+  height: 69.64px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  color: white;
+  cursor: pointer;
+}
+.more{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px    ;
+}
+/* temuka and mike-iin css */
 /* munkhtulgiin css */
 .text1 {
   display: flex;
@@ -153,7 +264,7 @@ button {
 }
 .four {
   width: 100vw;
-  height: 91wvh;
+  height: 91vh;
   background-color: rgb(215, 70, 128);
   
 }
@@ -163,6 +274,13 @@ button {
   font-size: 1vw;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+}
+.icon{
+  display: flex;
+  gap: 25px;
+}
+i{
+  font-size: 40px;
 }
 .line1 {
   display: flex;
@@ -264,7 +382,7 @@ flex-direction: row;
  width:100vw;
  background-color:rgb(52	75	142); 
  position:relative ;
- top:10vh;
+ top:0vh;
 }
 .bottomtext{
   width:100%;
