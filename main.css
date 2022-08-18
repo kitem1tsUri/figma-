@@ -267,14 +267,14 @@ button {
   display: flex;
   justify-content: center;
   font-size: 4vw;
-  padding-top: 30px;
+  padding-top: 10vh;
   color: white;
   font-weight: bolder;
   font-family: Arial, Helvetica, sans-serif;
 }
 .four {
   width: 100vw;
-  height: 91vh;
+  height: 92vh;
   background-color: rgb(215, 70, 128);
   
 }
@@ -285,13 +285,8 @@ button {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
-.icon{
-  display: flex;
-  gap: 25px;
-}
-i{
-  font-size: 40px;
-}
+
+
 .line1 {
   display: flex;
   justify-content: center;
@@ -300,92 +295,62 @@ i{
   background-color: black;
   opacity: 0.3;
   margin-left: 47vw;
-  margin-top: 30px;
-  margin-bottom: 50px;
+  margin-top: 5vh;
+  margin-bottom: 4vh; 
 }
-.img1 {
-  max-width: 25%;
-  max-height: 25%;
-  border-radius: 50%;
-  position: relative;
-  top:-60px;
+.img1{
+ max-width:65%;
+ max-height:65%; 
+ border-radius:50%;
+ position:relative;
+ top:-4vh;
 }
-.img1 img {
-    width: 200px;
-    height: 200px;
+.lorem{
+ width:100vw;
+ height:64%;
+ margin-top:8vh;
 }
-
-
-.lorem {
-  margin-top: -30px;
-  font-weight: 700;
-  font-size: smaller;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: 150px;
+.lorem1{
+height:20vh;
+display:flex;
+flex-direction:row;
+padding-left:10vw;
+gap:5vw;
 }
-.lorem1 {
-  color: white;
-  font-style: italic;
-  display: flex;
-  flex-direction: row;
-  justify-content: start;
-  align-items: flex-start;
-  padding-left: 185px;
-  padding-bottom: 60px;
+.lorem2{
+height:20vh;
+display:flex;
+flex-direction:row ;
+padding-left:10vw;
+gap:5vw;
 }
-.lorem2 {
-  color: white;
-  font-style: italic;
-  position: relative;
-  display: flex;
-  align-content: end;
-  justify-content: flex-end;
-  padding-right: 0px;
-  padding-bottom: 145px;
-  top: -470px;
-  left: 100px;
+.lorem3{
+  height:20vh;
+  display:flex;
+  flex-direction:row;
+  padding-left:10vw;
+  gap:5vw;
+  }
+.flexdir{
+ display:flex;
+ flex-direction:column;
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:large;
+ color:white;
+ font-style:italic;
+ margin-left:-3vw;
 }
-.nernuud1 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: larger;
-  margin-top: 15px;
+.bagiinhun{
+  color:rgb(245,245,180);
+  font-style:normal;
+  font-size:120%;
+  margin-top:1vh;
 }
-.nernuud2 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: larger;
-  position: relative;
-  top: 60px;
-  right: 460px;
-}
-.bagiinhun {
-  font-style: normal;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: Large;
-  color: rgb(245, 245, 220);
-}
-.bagiinhun2 {
-  font-style: normal;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: Large;
-  color: rgb(245, 245, 220);
-  position: relative;
-  top: 80px;
-  right: 534px;
-}
-.flexdir {
-    display: flex;
-    flex-direction: column;
-    padding-left: 40px;
-}
-
-.lorem {
-display: flex;
-flex-direction: row;
+.nernuud{
+  margin-top:1vh;
+ font-style:normal;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-weight:bold; 
 }
 .bottombar{
  height:10vh;
@@ -404,7 +369,7 @@ flex-direction: row;
  display:flex;
  justify-content:center;
  align-items:center;
- gap:150px;
+ gap:8vw;
  cursor:pointer;
 }
 div.bottomtext a:hover{
