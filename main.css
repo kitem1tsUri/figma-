@@ -102,11 +102,21 @@ button {
 .humans1 { 
     height: 491px;
     width: 760px;
-    background-color: white;
+    background-color: rgba(231, 241, 248, 1);
     display: flex;
     justify-content: space-between;
     display: grid;
     grid-template-columns: 33% 33% 33%;
+}
+.humans2 { 
+  height: 491px;
+  width: 760px;
+  background-color: rgba(231, 241, 248, 1);
+  display: flex;
+  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  margin-top: 100px;
 }
 
 .Амарчингүүн{ 
