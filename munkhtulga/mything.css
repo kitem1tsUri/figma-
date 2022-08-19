@@ -1,0 +1,156 @@
+.gadnah{
+ margin:0;   
+}
+.page1{
+
+width:45vw;
+height:100vh;   
+}
+.img1{
+ position:relative;
+ top:-645px;   
+ left:375px;
+}
+.img2{
+position:relative;
+bottom:625px;
+left:675px;
+}
+.img3{
+position:relative;
+right:100px;
+bottom:450px;
+}
+.img4{
+position:relative;
+top:100px;
+right:75px;
+}
+.img5{
+position: relative;
+left:1090px;
+top:-50px;
+}
+.img6{
+position:relative;
+top:175px;
+right:1000px;
+}
+.img7{
+position:relative;
+top:250px;
+right:625px;
+}
+.textnuud{
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bolder;
+font-size:large;
+opacity:0.8;    
+}
+.myname{
+ position:relative;
+ top:-500px;
+ left:1100px;
+ font-size:50px;   
+}
+.aboutme{
+position: relative;
+top:-450px;
+left:1100px;
+font-size:50px;
+font-weight:normal;
+opacity:0.5;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.page2{
+margin:-8px;;
+width:100vw;
+height:90vh;
+background-color:rgb(8	183	172)   
+}
+.myskills{
+display:flex;
+justify-content:center;
+padding-top:100px;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size:100px;
+color:white;
+font-weight:bold;
+}
+.weare{
+display:flex;
+justify-content:center;
+padding-top:75px;
+color:white;
+font-size:30px;
+font-weight:lighter;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.html5{
+    position:relative;
+    top:10vh;
+    left:17vw;
+}
+.css3{
+position: relative;
+top:10vh;
+left:31vw;
+}
+.js{
+    position: relative;
+    top: 10vh;
+    left:45vw;
+}
+.bootstrap{
+    position: relative;
+   top:10vh;
+    left:59vw;   
+}
+.text69{
+ display:flex;
+ flex-wrap:nowrap;
+ flex-flow:row;
+ flex-direction:row;
+ justify-content:center ;
+ font-size:large;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ color:white;
+ font-weight:bold;
+ position: relative;
+ top:35vh;
+ left: 0.3vw;
+ gap:8.3vw;
+}
+div.text69 a{
+ display:flex;
+ justify-content:center;   
+}
+.doodbar{
+    margin-bottom:-5vh;
+    margin-left:-0.38vw;
+    height:12vh;
+    width:100vw;
+    background-color:rgb(52	75	142); 
+    position:relative ;
+    top:0vh;
+   }
+   .doodtext{
+     width:100%;
+     height:100%;
+     font-size:large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:8vw;
+    cursor:pointer;
+   }
+div.doodtext a{
+  text-decoration:none ;  
+  color:rgb(66, 182, 245);
+}
+   div.doodtext a:hover{
+    color:rgb(66, 182, 245)
+   }

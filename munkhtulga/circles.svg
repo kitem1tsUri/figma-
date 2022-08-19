@@ -1,0 +1,34 @@
+<svg width="275" height="140" viewBox="0 0 275 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_46_195)">
+<g clip-path="url(#clip1_46_195)">
+<circle cx="12.5" cy="12.5" r="12.5" fill="#F37A7A"/>
+<circle cx="70.5" cy="12.5" r="12.5" fill="#F37A7A"/>
+<circle cx="128.5" cy="12.5" r="12.5" fill="#F37A7A"/>
+<circle cx="186.5" cy="12.5" r="12.5" fill="#F37A7A"/>
+<circle cx="244.5" cy="12.5" r="12.5" fill="#F37A7A"/>
+</g>
+<g clip-path="url(#clip2_46_195)">
+<circle cx="12.5" cy="56.5" r="12.5" fill="#F37A7A"/>
+<circle cx="70.5" cy="56.5" r="12.5" fill="#F37A7A"/>
+<circle cx="128.5" cy="56.5" r="12.5" fill="#F37A7A"/>
+<circle cx="186.5" cy="56.5" r="12.5" fill="#F37A7A"/>
+<circle cx="244.5" cy="56.5" r="12.5" fill="#F37A7A"/>
+</g>
+<circle cx="12.5" cy="100.5" r="12.5" fill="#F37A7A"/>
+<circle cx="70.5" cy="100.5" r="12.5" fill="#F37A7A"/>
+<circle cx="128.5" cy="100.5" r="12.5" fill="#F37A7A"/>
+<circle cx="186.5" cy="100.5" r="12.5" fill="#F37A7A"/>
+<circle cx="244.5" cy="100.5" r="12.5" fill="#F37A7A"/>
+</g>
+<defs>
+<clipPath id="clip0_46_195">
+<rect width="275" height="140" fill="white"/>
+</clipPath>
+<clipPath id="clip1_46_195">
+<rect width="257" height="25" fill="white"/>
+</clipPath>
+<clipPath id="clip2_46_195">
+<rect width="257" height="25" fill="white" transform="translate(0 44)"/>
+</clipPath>
+</defs>
+</svg>
